@@ -342,8 +342,4 @@ After you received the CID of the image location following steps are required:
 
 MIT
 
-#### Contact
 
-- [Twitter](https://twitter.com/JulianCwirko)
-- [WWW](https://www.julian.io)
-- [Elven Tools - Elrond blockchain NFT launches - Open Source tools](https://www.elven.tools)
